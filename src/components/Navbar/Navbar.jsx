@@ -64,7 +64,7 @@ function Navbar() {
               {openMenu ? "close" : "menu"}
             </span>
           </button>
-          
+
         </div>
       </nav>
     </>
