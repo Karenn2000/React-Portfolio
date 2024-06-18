@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/://Karenn2000.github.io/React-Portfolio/static/css/main.a33b142c.css",
-    "main.js": "/://Karenn2000.github.io/React-Portfolio/static/js/main.fda8abb8.js",
-    "static/js/453.bb828c5d.chunk.js": "/://Karenn2000.github.io/React-Portfolio/static/js/453.bb828c5d.chunk.js",
-    "index.html": "/://Karenn2000.github.io/React-Portfolio/index.html",
-    "main.a33b142c.css.map": "/://Karenn2000.github.io/React-Portfolio/static/css/main.a33b142c.css.map",
-    "main.fda8abb8.js.map": "/://Karenn2000.github.io/React-Portfolio/static/js/main.fda8abb8.js.map",
-    "453.bb828c5d.chunk.js.map": "/://Karenn2000.github.io/React-Portfolio/static/js/453.bb828c5d.chunk.js.map"
+    "main.css": "/React-Portfolio/static/css/main.a33b142c.css",
+    "main.js": "/React-Portfolio/static/js/main.be99a32f.js",
+    "static/js/453.bb828c5d.chunk.js": "/React-Portfolio/static/js/453.bb828c5d.chunk.js",
+    "index.html": "/React-Portfolio/index.html",
+    "main.a33b142c.css.map": "/React-Portfolio/static/css/main.a33b142c.css.map",
+    "main.be99a32f.js.map": "/React-Portfolio/static/js/main.be99a32f.js.map",
+    "453.bb828c5d.chunk.js.map": "/React-Portfolio/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a33b142c.css",
-    "static/js/main.fda8abb8.js"
+    "static/js/main.be99a32f.js"
   ]
 }
